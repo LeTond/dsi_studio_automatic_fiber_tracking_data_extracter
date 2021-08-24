@@ -1,1 +1,0 @@
-# dsi_studio_automatic_fiber_tracking_data_extracter
